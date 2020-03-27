@@ -5,6 +5,6 @@ export const GOOGLE_NOTIFICATIONS =
 export const TOKEN_CAD = '60d';
 export const URL_DB =
   process.env.NODE_ENV === 'dev'
-    ? 'mongodb+srv://marco_diaz:pataPON3@cluster0-jm5fl.mongodb.net/sautdiaz?retryWrites=true&w=majority'
-    : // ? 'mongodb+srv://marco_diaz:pataPON3@cluster0-jm5fl.mongodb.net/sautdiaz?retryWrites=true&w=majority'
-    'mongodb://localhost:27017/sautdiaz';
+//? 'mongodb+srv://marco_diaz:pataPON3@cluster0-jm5fl.mongodb.net/sautdiaz?retryWrites=true&w=majority'
+//: // ? 'mongodb+srv://marco_diaz:pataPON3@cluster0-jm5fl.mongodb.net/sautdiaz?retryWrites=true&w=majority'
+'mongodb://localhost:27017/sautdiaz';
