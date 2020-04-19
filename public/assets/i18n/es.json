@@ -1,0 +1,60 @@
+{
+    "home": {
+        "list": {
+            "1": "Desarrollo Web (Javascript, CSS, HTML)",
+            "2": "Backend (Javascript, PHP, MySQL, MongoDB)",
+            "3": "Móvil (IONIC, React Native, Flutter)",
+            "4": "Desktop (Electrón, Java, Python)",
+            "5": "Ciencias de Datos (R)"
+        },
+
+        "description": "Hola 👋🏼.\n Soy estudiante de Ing. En Sistemas Computacionales en el Instituto Tecnológico de Ocotlán. He llevado la programación en mi sangre desde muy pequeño, esto me ha impulsado a no únicamente aprender las tecnologías mas básicas de programación, si no las más modernas. 👌🏻",
+
+        "angular": {
+            "description": "Desarrollo, diseño y programación de aplicaciones web en Angular.\nAplicaciones móviles para Android y iOS usando el Framework de IONIC basado en Angular.",
+            "list": {
+                "1": "Diseño y Deploy",
+                "2": "ReactiveX",
+                "3": "Sockets"
+            }
+        },
+
+        "react": {
+            "description": "Desarrollo, diseño y programación de aplicaciones web en React.",
+            "list": {
+                "1": "Diseño y Deploy",
+                "2": "Patron Redux",
+                "3": "Pruebas Unitarias"
+            }
+        },
+
+        "nodejs": {
+            "description": "Desarrollo de backend en NodeJS, el sistema más rapido existente para controlar servidores.",
+            "list": {
+                "1": "Aplicaciones de backend",
+                "2": "API REST",
+                "3": "Seguridad y encriptación"
+            }
+        },
+
+        "flutter": {
+            "description": "Diseño, desarrollo y lanzamiento de aplicaciones Android y iOS en Flutter. Conexión con API's externas, SQLite, uso de camara y más.",
+            "list": {
+                "1": "Diseños increibles",
+                "2": "Bases de Datos SQLite",
+                "3": "Firabase/Auth"
+            }
+        }
+    },
+
+    "navbar": {
+        "items": [
+            "Inicio",
+            "Portafolio",
+            "Tecnológias",
+            "Certificaciones",
+            "Idioma",
+            "Contacto"
+        ]
+    }
+}

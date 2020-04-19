@@ -1,0 +1,60 @@
+{
+    "home": {
+        "list": {
+            "1": "Web Development (Javascript, CSS, HTML)",
+            "2": "Backend (Javascript, PHP, MySQL, MongoDB)",
+            "3": "Movile (IONIC, React Native, Flutter)",
+            "4": "Desktop (Electrón, Java, Python)",
+            "5": "Data Science (R)"
+        },
+
+        "description": "Hi! 👋🏼.\n I'm a student of Computer Systems Engineering at the Technological Institute of Ocotlán. I have carried programming in my blood since I was very young, this has prompted me not only to learn the most basic programming technologies, but also the most modern ones. 👌🏻",
+
+        "angular": {
+            "description": "Development, design and programming of web applications in Angular.\n Mobile applications for Android and iOS using the Angular-based IONIC Framework",
+            "list": {
+                "1": "Design and Deploy",
+                "2": "ReactiveX",
+                "3": "Sockets"
+            }
+        },
+
+        "react": {
+            "description": "Development, design and programming of web applications in React.",
+            "list": {
+                "1": "Design y deploy",
+                "2": "Redux pattern",
+                "3": "Unit testing"
+            }
+        },
+
+        "nodejs": {
+            "description": "Backend development in NodeJS, the fastest system available to control servers.",
+            "list": {
+                "1": "Backend applications",
+                "2": "API REST",
+                "3": "Security and encryption"
+            }
+        },
+
+        "flutter": {
+            "description": "Design, development and launch of Android and iOS applications in Flutter. Connection with external API's, SQLite, use of camera and more.",
+            "list": {
+                "1": "Amazing designs",
+                "2": "SQLite Databases",
+                "3": "Firabase/Auth"
+            }
+        }
+    },
+
+    "navbar": {
+        "items": [
+            "Home",
+            "Portfolio",
+            "Technologies",
+            "Certifications",
+            "Language",
+            "Contact"
+        ]
+    }
+}
