@@ -8,6 +8,15 @@
             "5": "Ciencias de Datos (R)"
         },
 
+        "buttons": {
+            "contact": "Contacto",
+            "more": "Mucho más"
+        },
+
+        "titles": {
+            "technologies": "Tecnológias"
+        },
+
         "description": "Hola 👋🏼.\n Soy estudiante de Ing. En Sistemas Computacionales en el Instituto Tecnológico de Ocotlán. He llevado la programación en mi sangre desde muy pequeño, esto me ha impulsado a no únicamente aprender las tecnologías mas básicas de programación, si no las más modernas. 👌🏻",
 
         "angular": {
@@ -56,5 +65,23 @@
             "Idioma",
             "Contacto"
         ]
+    },
+
+    "technologies": {
+        "title": "Tecnológias",
+        "header": [
+            "Lenguajes de Programación",
+            "Bases de Datos",
+            "Frameworks",
+            "Diseños"
+        ]
+    },
+
+    "certifications": {
+        "title": "Certificaciones",
+        "subtitle": "¡ESTOY LISTO PARA COMENZAR A TRABAJAR CONTIGO EN TODAS ESTAS TECNOLOGIAS!",
+        "card": {
+            "instructor": "Instructor: "
+        }
     }
 }

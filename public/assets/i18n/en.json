@@ -8,6 +8,15 @@
             "5": "Data Science (R)"
         },
 
+        "buttons": {
+            "contact": "Contact",
+            "more": "More"
+        },
+
+        "titles": {
+            "technologies": "Technologies"
+        },
+
         "description": "Hi! 👋🏼.\n I'm a student of Computer Systems Engineering at the Technological Institute of Ocotlán. I have carried programming in my blood since I was very young, this has prompted me not only to learn the most basic programming technologies, but also the most modern ones. 👌🏻",
 
         "angular": {
@@ -56,5 +65,23 @@
             "Language",
             "Contact"
         ]
+    },
+
+    "technologies": {
+        "title": "Technologies",
+        "header": [
+            "Programming Languages",
+            "Databases",
+            "Frameworks",
+            "Design"
+        ]
+    },
+
+    "certifications": {
+        "title": "Certificates",
+        "subtitle": "I'M READY TO START WORKING WITH YOU ON ALL THESE TECHNOLOGIES!",
+        "card": {
+            "instructor": "Instructor: "
+        }
     }
 }
