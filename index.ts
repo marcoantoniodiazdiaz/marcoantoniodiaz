@@ -3,6 +3,11 @@ import bodyParser from 'body-parser';
 import cors from 'cors';
 import express from 'express';
 
+// Rutas
+import router from './routes/router';
+import counter from './routes/counter.routes';
+import MySQL from './database/mysql';
+
 const server = Server.instance;
 
 // BodyParser
@@ -14,6 +19,10 @@ server.app.use(express.static('public'));
 
 // CORS
 server.app.use(cors({ origin: true, credentials: true }));
+
+// Rutas de MongoDB
+server.app.use('/', router);
+server.app.use('/', counter);
 
 
 server.start(() => {
